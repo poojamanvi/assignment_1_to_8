@@ -1,0 +1,58 @@
+h1{
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+.a{
+    border:blue thick dotted ;
+    
+    margin: 20px;
+    padding: 2px;
+}
+.b{
+    border:blue solid;
+    margin: 20px;
+    padding: 2px;
+}
+.c{
+    border:blue double ;
+    margin: 20px;
+    padding: 2px;
+}
+.d{
+    border:blue dashed;
+    margin: 20px;
+    padding: 2px;
+}
+.e{
+    
+    margin: 20px;
+    padding: 2px;
+}
+.container{
+    text-align: center;
+    background-color: darkcyan;
+    border: solid  0.7em;
+    border-color: red green blue gold;
+    
+    margin: 5%;
+   
+    width: auto;
+    
+    padding: 0.5em;
+  }
+  
+footer{
+    padding: 30px;
+    background-color:blue;
+    text-align: center;
+}
+footer a {
+    color: white;
+    margin: 40px;
+}
+footer a:hover{
+    color:red;
+    border-bottom: dotted;
+}
